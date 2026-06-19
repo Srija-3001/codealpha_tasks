@@ -1,4 +1,4 @@
-# CodeAlpha Java Programming Internship Tasks
+#Java Programming Tasks
 
 This repository contains the projects completed as part of the CodeAlpha Java Programming Internship.
 
